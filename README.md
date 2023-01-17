@@ -1,7 +1,13 @@
 # forex-table-backend
 
-Steps to start the server:
+> forex-table-backend
 
-1. npm i 
+## Build Setup
 
-2. node server.js
+``` bash
+# install dependencies
+npm install
+
+# server listen to localhost:3000
+node server.js
+
